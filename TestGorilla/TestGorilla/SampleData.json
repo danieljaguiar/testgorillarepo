@@ -1,0 +1,8 @@
+﻿{
+    "MainPage.xaml" : [
+        { "Name": "John", "Age":29, "Photo":"friend_thumbnail_27.jpg" },
+        { "Name": "Pam", "Age":32, "Photo":"friend_thumbnail_31.jpg" },
+        { "Name": "Casy", "Age":58, "Photo":"friend_thumbnail_93.jpg" },
+        { "Name": "Susan", "Age":29, "Photo":"friend_thumbnail_75.jpg" }
+    ]
+}
